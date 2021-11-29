@@ -15,3 +15,5 @@ Table of Contents:
 
 ## Application Case
 Face Recognition: Who world leaders are this?
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agaray54/Basic-Exercises-of-SVM-in-Scikit-Learn/HEAD?labpath=M2A4_CVX_OPT_AG.ipynb)
